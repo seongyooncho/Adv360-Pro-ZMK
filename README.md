@@ -29,7 +29,7 @@ Certain ZMK features (e.g. combos) require knowing the exact key positions in th
 * Either Podman or Docker is required, Podman is chosen if both are installed.
 * Make is also required
 
-#### Windows specific
+#### Windows specific 
 
 * If compiling on Windows use WSL2 and Docker [Docker Setup Guide](https://docs.docker.com/desktop/windows/wsl/).
 * Install make using `sudo apt-get install make` inside the WSL2 instance.
